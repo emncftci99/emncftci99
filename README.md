@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**emncftci99/emncftci99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About me
+Finishing school, building IT foundations in Linux, networking, and Git. Based in Germany.
+Interested in system administration and IT support.
 
-Here are some ideas to get you started:
+## 📚 Currently learning
+- Linux command line: file permissions, processes, and services
+- Networking: IP addressing, subnetting, DNS, DHCP/NAT and TCP/UDP ports
+- Git & GitHub over SSH: commits now, branches and pull requests next
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Projects
+- [home-network-docs](https://github.com/emncftci99/Home-Network-Docs): To show the network concepts I learned this week (IP, subnet, DNS, port, OSI, DHCP, NAT) on a real network. I keep a record of what I learn by updating this document in each new course. Documentation of my home network, including topology, devices, and configuration notes.
+  
+- [lieferspatz-fastAPI](https://github.com/emncftci99/lieferspatz-fastAPI): A modernized new implementation of the university project Lieferspatz from the database Praktikum. The application represents a simplified food delivery service with FastAPI, Python, HTML, JavaScript, CSS, and SQLite3
+
+## 📫 Contact
+[LinkedIn]([https://www.linkedin.com/in/LINKEDIN_PROFILIN](https://www.linkedin.com/in/emin-ciftci-122747214/))
